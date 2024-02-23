@@ -1,0 +1,19 @@
+{
+  "name": "NEVER GIVE UP!",
+  "version": "1.0.3",
+  "permissions": [
+    "tabs"],
+  "description": "Active this extension if you are thinking giving up",
+  "icons": {
+    "48": "img/img48_NEVER_GIVE_UP.png",
+    "128": "img/img128_NEVER_GIVE_UP.png"
+  },
+  "background": {
+    "service_worker": "js.js"
+  },
+  "action": {
+    "default_icon": "img/icon16.png",
+    "default_title": "Think about what you want to be!"
+  },
+  "manifest_version": 3
+}
